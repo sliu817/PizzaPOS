@@ -1,0 +1,26 @@
+/* CSS Document */
+#login{width:500px; position:relative; margin:0 auto;padding-top:20px}
+#container{width:1000px; position:relative; margin:0 auto;padding-top:10px}
+#time{position:absolute;margin:0 auto;text-align:left;}
+#welcome{left:200px;margin:0 auto;position:absolute;}
+#order{position:absolute;top:130px; }
+#searchOrder{position:absolute;top:130px; left:70px;}
+#mainMenu{position:absolute;top:230px;}
+#checkFrame{position:absolute;top:180px; left:680px;}
+#centerFrame{position:absolute;left:100px;padding-top:10px}
+#manageFrame{position:absolute;left:100px;padding-top:50px}
+#mainFrame{position:absolute;left:300px;padding-top:35px}
+.btn_1{position:absolute;margin:0 auto;top:180px; left:0px;}
+.btn_2{position:absolute;margin:0 auto;top:180px;  left:70px;}
+.btn_3{position:absolute;margin:0 auto;top:180px; left: 140px;}
+.btn_4{position:absolute;margin:0 auto;top:180px; left: 210px;}
+h4{font-weight: bolder}
+h2{
+color:#A4A400;
+background-color:#F0F0F0;
+font-family:"Century Gothic",Futura,Verdana;
+text-align:center;
+font-size:22pt;
+text-decoration:underline;
+letter-spacing:0.2em;
+}

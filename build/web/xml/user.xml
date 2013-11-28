@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>  
+  <user userid="4045366818">
+      <name>Sha Liu</name>
+      <role>FOH</role>
+	  <password>12345</password>
+  </user>
+  
+   <user userid="4047095640">
+      <name>Wei Li</name>
+      <role>Driver</role>
+	  <password>12345</password>
+  </user>
+  
+    
+   <user userid="1234567">
+      <name>Zhenhua Li</name>
+      <role>Manager</role>
+	  <password>12345</password>
+  </user>
+ 
+<user userid="2345678">
+      <name>Thomas Chamberlin </name>
+      <role>Kitchen</role>
+	  <password>12345</password>
+ </user>
+ 
+ <user userid="3456789">
+      <name>George </name>
+      <role>FOH</role>
+	  <password>12345</password>
+ </user>
+
+
+
+</users>

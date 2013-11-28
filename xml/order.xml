@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<orders>  
+  <order customer="4045366818" ono="1" time="20130101">
+		<status>delivered</status>
+		<type>Delivery</type>
+      <items>
+		<item id="1">
+			<quantity>2</quantity>
+		</item>
+		<item id="2">
+		
+			<quantity>3</quantity>
+		</item>
+	  </items>
+  </order>
+    <order customer="4045366818" ono="2" time="20130920">
+	<status>accepted</status>
+	<type>Delivery</type>
+      <items>
+		<item id="3">
+			<quantity>2</quantity>
+		</item>
+		<item id="4">
+		
+			<quantity>1</quantity>
+		</item>
+	  </items>
+  </order>
+  
+  
+  <order customer="6782006588" ono="3" time="20130801">
+		<status>making</status>
+		<type>Delivery</type>
+      <items>
+		<item id="1">
+			<quantity>2</quantity>
+		</item>
+		<item id="2">
+		
+			<quantity>1</quantity>
+		</item>
+	  </items>
+  </order>
+    <order customer="6782006588" ono="4" time="20130921">
+	<status>accepted</status>
+	<type>Delivery</type>
+      <items>
+		<item id="3">
+			<quantity>2</quantity>
+		</item>
+		<item id="4">
+		
+			<quantity>1</quantity>
+		</item>
+	  </items>
+  </order>
+  
+    <order customer="6782006588" ono="5" time="20130721">
+	<status>delivered</status>
+	<type>Delivery</type>
+      <items>
+		<item id="3">
+			<quantity>3</quantity>
+		</item>
+		<item id="4">
+		
+			<quantity>1</quantity>
+		</item>
+	  </items>
+  </order>
+ 
+
+
+<order ono="268624" time="19/11/2013 01:35:04">
+<items>
+<item id="4">
+<quantity>1</quantity>
+</item>
+<item id="12">
+<quantity>1</quantity>
+</item>
+</items>
+<status>accepted</status>
+<type>Dine_in</type>
+</order>
+<order customer="4045366818" ono="407864" time="19/11/2013 01:37:33">
+<items>
+<item id="12">
+<quantity>1</quantity>
+</item>
+<item id="7">
+<quantity>1</quantity>
+</item>
+</items>
+<status>accepted</status>
+<type>delivery</type>
+</order>
+<order ono="126893" time="19/11/2013 01:44:19">
+<items>
+<item id="4">
+<quantity>1</quantity>
+</item>
+<item id="12">
+<quantity>1</quantity>
+</item>
+</items>
+<status>accepted</status>
+<type>Take_out</type>
+
+</order>
+<order ono="702776" time="19/11/2013 01:49:46">
+<items>
+<item id="15">
+<quantity>1</quantity>
+</item>
+<item id="2">
+<quantity>1</quantity>
+</item>
+</items>
+<status>accepted</status>
+<type>Take_out</type>
+</order>
+<order ono="790049" time="20/11/2013 15:52:36">
+<items>
+<item id="7">
+<quantity>1</quantity>
+</item>
+</items>
+<status>accepted</status>
+<type>dinein</type>
+</order>
+<order ono="714118" time="20/11/2013 16:57:43">
+<items>
+<item id="4">
+<quantity>2</quantity>
+</item>
+<item id="22">
+<quantity>1</quantity>
+</item>
+<item id="7">
+<quantity>1</quantity>
+</item>
+</items>
+<status>accepted</status>
+<type>dinein</type>
+</order>
+<order ono="723932" time="20/11/2013 18:01:55">
+<items>
+<item id="22">
+<quantity>2</quantity>
+</item>
+</items>
+<status>accepted</status>
+<type>dinein</type>
+</order>
+</orders>

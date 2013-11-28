@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menus>  
+  <menu mid="1">
+	  <category>pizza</category>
+      <name>Cali Chicken Bacon Ranch™ Pizza</name>
+      <price>5.00</price>
+      <description>Grilled chicken breast, white sauce, smoked bacon, tomatoes, cheeses made with 100% real mozzarella and provolone on a cheesy provolone crust.</description>
+  </menu>
+  
+ <menu mid="2">
+      <category>pizza</category>
+      <name>Fiery Hawaiian™ Pizza</name>
+      <price>4.00</price>
+      <description>Sliced ham, smoked bacon, pineapple, roasted red peppers, hot sauce, jalapeños, cheeses made with 100% real mozzarella and provolone on a cheesy Parmesan Asiago crust.</description>
+  </menu>
+  
+    
+ <menu mid="3">
+		<category>pizza</category>
+      <name>Philly Cheese Steak Pizza</name>
+      <price>5.00</price>
+      <description>Tender slices of steak, fresh onions, fresh green peppers and fresh mushrooms with provolone and American cheeses on a cheesy provolone crust.</description>
+  </menu>
+  
+   <menu mid="4">
+	   <category>pizza</category>
+      <name>Memphis BBQ Chicken Pizza</name>
+      <price>3.00</price>
+      <description>Grilled chicken breast, BBQ sauce, fresh onions, cheeses made with 100% real mozzarella, provolone and cheddar on a cheesy cheddar crust.</description>
+  </menu>
+  
+     <menu mid="5">
+	   <category>salad</category>
+      <name>Asian Style Salad</name>
+      <price>3.00</price>
+      <description>Grilled chicken breast.</description>
+  </menu>
+  
+     <menu mid="6">
+	   <category>salad</category>
+      <name>Season Berry Salad</name>
+      <price>3.00</price>
+      <description>Strawberry, blueberry and nuts.</description>
+	   </menu>
+	   
+	    <menu mid="9">
+	   <category>drink</category>
+      <name>Orange</name>
+      <price>1.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+	  <menu mid="7">
+	   <category>drink</category>
+      <name>Coke®</name>
+      <price>1.40</price>
+      <description>The authentic cola sensation that is a refreshing part of sharing life's enjoyable moments</description>
+	   </menu>
+	  
+	  <menu mid="8">
+	   <category>sides</category>
+      <name>Spring Roll</name>
+      <price>1.40</price>
+      <description>Unique Lymon (lemon-lime) flavor, clear, clean and crisp with no caffeine.</description>
+	  </menu>
+	  
+	   <menu mid="10">
+	   <category>pizza</category>
+      <name>Seafood Pizza</name>
+      <price>5.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+	  <menu mid="11">
+	   <category>sides</category>
+      <name>Chicken Wing</name>
+      <price>5.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+	  <menu mid="12">
+	   <category>salad</category>
+      <name>Caesar Salad</name>
+      <price>5.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+	  <menu mid="13">
+	   <category>sides</category>
+      <name>Potato Cake</name>
+      <price>5.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+	  <menu mid="14">
+	   <category>pizza</category>
+      <name>Tomato Mushroom</name>
+      <price>5.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+	  <menu mid="15">
+	   <category>drink</category>
+      <name>Coffee</name>
+      <price>1.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+   <menu mid="16">
+	   <category>drink</category>
+      <name>Ice tea</name>
+      <price>1.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+	   <menu mid="17">
+	   <category>drink</category>
+      <name>tea</name>
+      <price>1.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+   <menu mid="18">
+	   <category>pizza</category>
+      <name>Tomato Mushroom</name>
+      <price>5.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+	  
+	   
+	  <menu mid="20">
+	   <category>sides</category>
+      <name>Potato Cake</name>
+      <price>5.34</price>
+      <description>Exuberant tropical fun to release you from the everyday mundane.</description>
+	  </menu>
+ 
+<menu mid="19">
+<category>pizza</category>
+<name>Pepper Mushroom</name>
+<price>5.34</price>
+<description>Exuberant tropical fun to release you from the everyday mundane.</description>
+</menu>
+<menu mid="1">
+<category>pizza</category>
+<name>Season Shrimp</name>
+<price>6.39</price>
+<description>This is shrimp</description>
+</menu>
+</menus>

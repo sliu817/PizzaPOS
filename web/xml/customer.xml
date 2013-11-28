@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>  
+  
+  
+ <customer phone="123456789">
+      <name>Zhenhua Li</name>
+      <address>2300 Baricllif Road, Atlanta, GA</address>
+	   <postalcode>30318</postalcode>
+      <note>This is a note.</note>
+	  <orders>
+		<order time="12/11/2013 23:36:50"/>
+		<order time="17/11/2013 11:36:50"/>
+	  </orders>
+  </customer>
+  
+    
+ <customer phone="111111111">
+       <name>Wei Li</name>
+      <address>2300 Lenox Road, Atlanta, GA</address>
+	   <postalcode>30303</postalcode>
+      <note>This is a note.</note>
+  </customer>
+ 
+
+<customer phone="4045366818">
+<name>Yueming Duan</name>
+<address>201 W Harrison Street</address>
+<postalcode>98119</postalcode>
+ <orders>
+<order time="18/11/2013 23:36:50"/>
+<order time="19/11/2013 00:26:06"/>
+<order time="19/11/2013 00:34:59"/>
+<order time="19/11/2013 01:37:33"/>
+</orders>
+</customer>
+
+
+<customer phone="13574028755">
+<name>June</name>
+<address>34 Peachtree St NW</address>
+<postalcode>30302-3994</postalcode>
+<orders>
+<order time="17/11/2013 11:36:50"/>
+</orders>
+</customer>
+
+</customers>

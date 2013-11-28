@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  
+  <servlet>
+    <servlet-name>addUser</servlet-name>
+    <servlet-class>common.addUser</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>addUser</servlet-name>
+    <url-pattern>/addUser</url-pattern>
+  </servlet-mapping>
+    
+     <servlet>
+    <servlet-name>searchOrderStatus</servlet-name>
+    <servlet-class>common.searchOrderStatus</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>searchOrderStatus</servlet-name>
+    <url-pattern>/searchOrderStatus</url-pattern>
+  </servlet-mapping>
+    
+    
+    
+     <servlet>
+    <servlet-name>searchUser</servlet-name>
+    <servlet-class>common.searchUser</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>searchUser</servlet-name>
+    <url-pattern>/searchUser</url-pattern>
+  </servlet-mapping>
+     <servlet>
+    <servlet-name>updateUser</servlet-name>
+    <servlet-class>common.updateUser</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>updateUser</servlet-name>
+    <url-pattern>/updateUser</url-pattern>
+  </servlet-mapping>
+    
+     <servlet>
+    <servlet-name>addMenu</servlet-name>
+    <servlet-class>common.addMenu</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>addMenu</servlet-name>
+    <url-pattern>/addMenu</url-pattern>
+  </servlet-mapping>
+    
+       <servlet>
+    <servlet-name>showMenu</servlet-name>
+    <servlet-class>common.showMenu</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>showMenu</servlet-name>
+    <url-pattern>/showMenu</url-pattern>
+  </servlet-mapping>
+    
+        <servlet>
+    <servlet-name>updateMenu</servlet-name>
+    <servlet-class>common.updateMenu</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>updateMenu</servlet-name>
+    <url-pattern>/updateMenu</url-pattern>
+  </servlet-mapping>
+    
+    <servlet>
+    <servlet-name>Cart</servlet-name>
+    <servlet-class>bean.Cart</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Cart</servlet-name>
+    <url-pattern>/Cart</url-pattern>
+  </servlet-mapping>
+  
+     <servlet>
+    <servlet-name>checkCart</servlet-name>
+    <servlet-class>common.checkCart</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>checkCart</servlet-name>
+    <url-pattern>/checkCart</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>Logout</servlet-name>
+    <servlet-class>common.Logout</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Logout</servlet-name>
+    <url-pattern>/Logout</url-pattern>
+  </servlet-mapping>
+  
+  
+   <servlet>
+    <servlet-name>updateStatus</servlet-name>
+    <servlet-class>common.updateStatus</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>updateStatus</servlet-name>
+    <url-pattern>/updateStatus</url-pattern>
+  </servlet-mapping>
+  
+  
+    <servlet>
+    <servlet-name>makeDineinOrder</servlet-name>
+    <servlet-class>common.makeDineinOrder</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>makeDineinOrder</servlet-name>
+    <url-pattern>/makeDineinOrder</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  
+  
+   <servlet>
+    <servlet-name>searchAllOrder</servlet-name>
+    <servlet-class>common.searchAllOrder</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>searchAllOrder</servlet-name>
+    <url-pattern>/searchAllOrder</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+   <servlet>
+    <servlet-name>orderForm</servlet-name>
+    <servlet-class>common.orderForm</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>orderForm</servlet-name>
+    <url-pattern>/orderForm</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>makeOrder</servlet-name>
+    <servlet-class>common.makeOrder</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>makeOrder</servlet-name>
+    <url-pattern>/makeOrder</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+    <servlet-name>searchMenu</servlet-name>
+    <servlet-class>common.searchMenu</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>searchMenu</servlet-name>
+    <url-pattern>/searchMenu</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>addItem</servlet-name>
+    <servlet-class>common.addItem</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>addItem</servlet-name>
+    <url-pattern>/addItem</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+    <servlet-name>removeItem</servlet-name>
+    <servlet-class>common.removeItem</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>removeItem</servlet-name>
+    <url-pattern>/removeItem</url-pattern>
+  </servlet-mapping>
+  
+     <servlet>
+    <servlet-name>dbOperation</servlet-name>
+    <servlet-class>db.dbOperation</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>dbOperation</servlet-name>
+    <url-pattern>/dbOperation</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>searchMenuDetail</servlet-name>
+    <servlet-class>common.searchMenuDetail</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>searchMenuDetail</servlet-name>
+    <url-pattern>/searchMenuDetail</url-pattern>
+  </servlet-mapping>
+   <!--登陆-->
+        <servlet>
+		<servlet-name>acceptUserLogin</servlet-name>
+		<servlet-class>common.acceptUserLogin</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>acceptUserLogin</servlet-name>
+		<url-pattern>/acceptUserLogin</url-pattern>
+	</servlet-mapping>
+        
+        
+        
+             <servlet>
+		<servlet-name>deleteUser</servlet-name>
+		<servlet-class>common.deleteUser</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>deleteUser</servlet-name>
+		<url-pattern>/deleteUser</url-pattern>
+	</servlet-mapping>  
+  <servlet>
+    <servlet-name>searchOrder</servlet-name>
+    <servlet-class>common.searchOrder</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>searchOrder</servlet-name>
+    <url-pattern>/searchOrder</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>OrderBean</servlet-name>
+    <servlet-class>bean.OrderBean</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>OrderBean</servlet-name>
+    <url-pattern>/OrderBean</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+    <servlet-name>ItemsArray</servlet-name>
+    <servlet-class>bean.ItemsArray</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ItemsArray</servlet-name>
+    <url-pattern>/ItemsArray</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>MenuBean</servlet-name>
+    <servlet-class>bean.MenuBean</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MenuBean</servlet-name>
+    <url-pattern>/MenuBean</url-pattern>
+  </servlet-mapping>
+  
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <error-page>
+  <exception-type>java.lang.Exception</exception-type>
+  <location>/pages/error.jsp</location>
+  </error-page>
+</web-app>
